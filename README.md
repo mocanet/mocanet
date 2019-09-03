@@ -11,13 +11,17 @@
 * NuGetを使用して各プロジェクトに追加
 * テンプレートおよびスニペット用のVisual Studio拡張機能
 
-[Moca.pdf](docs/Moca.pdf)
+<object data="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## リンク
 
-### [NuGet](https://www.nuget.org/profiles/MiYABiS)
+### [NuGet](https://www.nuget.org/profiles/mocanet)
 <div align="center">
-<a href="https://www.nuget.org/profiles/MiYABiS"><img src="https://note.miyabis.jp/wp-content/uploads/2019/05/www.nuget_.org_profiles_MiYABiS-600x310.png" alt="" width="600" height="310" /></a>
+<a href="https://www.nuget.org/profiles/mocanet"><img src="https://note.miyabis.jp/wp-content/uploads/2019/05/www.nuget_.org_profiles_MiYABiS-600x310.png" alt="" width="600" height="310" /></a>
 </div>
 <br/>
 
