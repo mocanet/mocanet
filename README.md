@@ -21,9 +21,11 @@
 
 ### [GitHub](https://github.com/mocanet)
 
+<div align="center">
 <div class="github-card-area">
 <div class="github-card" data-github="mocanet" data-width="600" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</div>
 </div>
 <br/>
 
