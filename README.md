@@ -1,4 +1,3 @@
-# Moca.NET
 
 <div align="center">
 <img src="https://avatars3.githubusercontent.com/u/14543303?s=200&v=4" alt="" />
