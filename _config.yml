@@ -1,2 +1,8 @@
 title: Moca.NET
 name: MiYABiS
+
+# Navigation
+nav:
+- name:     "About"
+  url:      "/about"
+  
