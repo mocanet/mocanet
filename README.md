@@ -25,7 +25,7 @@
 
 <div align="center">
 <div class="github-card-area">
-<div class="github-card" data-github="mocanet" data-width="600" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="mocanet" data-width="500" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </div>
 </div>
@@ -33,17 +33,17 @@
 
 ### [NuGet](https://www.nuget.org/profiles/mocanet)
 <div align="center">
-<a href="https://www.nuget.org/profiles/mocanet"><img src="docs/images/www.nuget_.org_profiles_MiYABiS-600x310.png" alt="" width="600" height="310" /></a>
+<a href="https://www.nuget.org/profiles/mocanet"><img src="docs/images/www.nuget_.org_profiles_MiYABiS-600x310.png" alt="" width="500" /></a>
 </div>
 <br/>
 
 ### [Visual Stuido Extension](https://marketplace.visualstudio.com/search?term=publisher%3A%22MiYABiS%22&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance)
 <div align="center">
-<a href="https://marketplace.visualstudio.com/search?term=publisher%3A%22MiYABiS%22&amp;target=VS&amp;category=All%20categories&amp;vsVersion=&amp;sortBy=Relevance"><img src="docs/images/marketplace.visualstudio.com_-600x226.png" alt="" width="600" height="226" /></a>
+<a href="https://marketplace.visualstudio.com/search?term=publisher%3A%22MiYABiS%22&amp;target=VS&amp;category=All%20categories&amp;vsVersion=&amp;sortBy=Relevance"><img src="docs/images/marketplace.visualstudio.com_-600x226.png" alt="" width="500" /></a>
 </div>
 <br/>
 
 ### [Visual Studio samples](https://code.msdn.microsoft.com/vstudio/site/search?f%5B0%5D.Type=Topic&f%5B0%5D.Value=Moca.NET&f%5B0%5D.Text=Moca.NET)
 <div align="center">
-<a href="https://code.msdn.microsoft.com/vstudio/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Moca.NET&amp;f%5B0%5D.Text=Moca.NET"><img src="docs/images/code.msdn_.microsoft.com_vstudio_site_mydashboard-600x341.png" alt="" width="600" height="341" /></a>
+<a href="https://code.msdn.microsoft.com/vstudio/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Moca.NET&amp;f%5B0%5D.Text=Moca.NET"><img src="docs/images/code.msdn_.microsoft.com_vstudio_site_mydashboard-600x341.png" alt="" width="500" /></a>
 </div>
