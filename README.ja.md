@@ -3,12 +3,12 @@
 <img src="https://avatars3.githubusercontent.com/u/14543303?s=200&v=4" alt="" />
 </div>
 
-## Overview
-* Frameworks available for .NET development
-* Support for multiple frameworks
-* Utility methods and custom controls for Windows and Web
-* Added to each project using NuGet
-* Visual Studio extension for templates and snippets
+## 概要
+* .NET 開発で使用できるフレームワーク
+* 複数のフレームワークのサポート
+* WindowsおよびWeb用のユーティリティメソッドおよびカスタムコントロール
+* NuGetを使用して各プロジェクトに追加
+* テンプレートおよびスニペット用のVisual Studio拡張機能
 
 <object data="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf" type="application/pdf" width="100%" height="750px">
     <embed src="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf">
@@ -16,7 +16,7 @@
     </embed>
 </object>
 
-## Link
+## リンク
 
 ### [GitHub](https://github.com/mocanet)
 
