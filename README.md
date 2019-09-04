@@ -3,7 +3,7 @@
 <img src="https://avatars3.githubusercontent.com/u/14543303?s=200&v=4" alt="" />
 </div>
 <div align="right">
-<a href="README.ja.md">Japanese</a>
+<a href="README.ja.html">Japanese</a>
 </div>
 
 ## Overview
