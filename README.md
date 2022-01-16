@@ -13,11 +13,7 @@
 * Added to each project using NuGet
 * Visual Studio extension for templates and snippets
 
-<object data="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf" type="application/pdf" width="100%" height="750px">
-    <embed src="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/mocanet/mocanet/master/docs/Moca.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe data-lazyloaded="1" src="//docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmocanet%2Fmocanet%2Fmaster%2Fdocs%2FMoca.pdf&amp;hl=ja&amp;embedded=true" data-src="//docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmocanet%2Fmocanet%2Fmaster%2Fdocs%2FMoca.pdf&amp;hl=ja&amp;embedded=true" class="gde-frame litespeed-loaded" style="width:100%; height:600px; border: none;" scrolling="no" data-was-processed="true"></iframe>
 
 ## Link
 
